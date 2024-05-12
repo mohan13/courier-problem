@@ -1,4 +1,3 @@
-import React from "react";
 import { coruierCharge } from "../../utils/courierCheck";
 
 export const PackageCalculation = ({
